@@ -7,9 +7,7 @@ sitemap: true
 ---
 <img style="float: right;" src="main250.jpg">
 
-I am a Postdoctoral Scholar in the [Institute of Economics and Econometrics](https://www.unige.ch/gsem/en/research/institutes/iee/)
-at the University of Geneva. I will join the [Munich Econometrics Group](https://munichmetrics.de/)
-in Spring 2025 as a Postdoctoral Scholar.
+I am a Postdoctoral Scholar at the Technical University Munich and part of the [Munich Econometrics Group](https://munichmetrics.de/).
 
 My research interests are:
 
