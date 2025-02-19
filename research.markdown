@@ -13,7 +13,7 @@ sitemap: true
 # Books
 
   - **Causal Inference and Machine Learning: A Locally Robust Approach:** with
-[Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home?authuser=0), forthcoming (Taylor & Francis Group)
+[Juan Carlos Escanciano](https://sites.google.com/view/juancarlosescanciano/home?authuser=0), in progress (Taylor & Francis Group)
 
 # Working Papers
 
