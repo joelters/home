@@ -21,7 +21,7 @@
 title: Joël Terschuur
 email: joel.terschuur@tum.de
 url: "https://joelters.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: /home # the subpath of your site, e.g. /blog
 twitter_username: Joel_Terschuur
 github_username:  joelters
 
