@@ -1,1 +1,1 @@
-Sitemap: https://joelters.github.io/home/sitemap.xml
+Sitemap: https://joelters.github.io/sitemap.xml
