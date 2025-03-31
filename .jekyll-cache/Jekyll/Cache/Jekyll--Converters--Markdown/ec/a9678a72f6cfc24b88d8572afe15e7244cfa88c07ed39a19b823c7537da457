@@ -1,0 +1,27 @@
+I"þ<p>Here I upload R packages and code. For R packages click on
+the link and scroll down to see a description.</p>
+
+<h1 id="r-packages">R packages</h1>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/joelters/ML">ML</a>:  simple to use package to estimate
+   Lasso, Ridge, Random Forest (RF), Conditional Inference Forest (CIF),
+   Extreme Gradient Boosting (XGB), Catboosting (CB) and a SuperLearner
+   combining all of these learners.</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/joelters/ineqopp">ineqopp</a>: the goal of ineqopp is to
+   provide estimates  and tests for Inequality of Opportunity (IOp) using
+   several methods. Debiased IOp estimates can be computed using any Machine
+   Learner among: Lasso, Ridge, Random Forest, Conditional Inferest Forest,
+   Extreme Gradient Boosting, Catboosting or some combination of these five
+   machine learners. Plug in estimates can also be computed estimating the
+   fitted values with a log linear regression, non-parametrically (for discrete
+   circumstances) or with any of the aforementioned machine learners. Debiased
+   partial effects can also be computed. The package includes a survey with
+   income and circumstances for Madrid in 2018 (from Encuesta de Condiciones
+   de vida (ECV) 2019).</p>
+  </li>
+</ul>
+:ET
