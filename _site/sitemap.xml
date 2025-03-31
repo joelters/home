@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://joelters.github.io/home/</loc>
+<loc>https://joelters.github.io/home/home/</loc>
 </url>
 <url>
 <loc>https://joelters.github.io/home/research/</loc>
@@ -42,5 +42,9 @@
 <url>
 <loc>https://joelters.github.io/home/assets/slides_ustats.pdf</loc>
 <lastmod>2024-09-24T11:11:33+02:00</lastmod>
+</url>
+<url>
+<loc>https://joelters.github.io/home/</loc>
+<lastmod>2025-03-31T14:16:57+02:00</lastmod>
 </url>
 </urlset>
