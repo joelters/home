@@ -1,4 +1,4 @@
-I";<h1 id="job-market-paper">Job Market Paper</h1>
+I"�<h1 id="job-market-paper">Job Market Paper</h1>
 
 <ul>
   <li><a href="https://raw.githubusercontent.com/joelters/website/gh-pages/assets/LRPL.pdf">Locally Robust Policy Learning: Inequality, Inequality of Opportunity and Intergenerational Mobility</a>
@@ -18,10 +18,10 @@
 <h1 id="working-papers">Working Papers</h1>
 
 <ul>
-  <li><a href="https://raw.githubusercontent.com/joelters/website/gh-pages/assets/DMLU.pdf">Debiased Machine Learning U-statistics</a>: with
-<a href="https://sites.google.com/view/juancarlosescanciano/home?authuser=0">Juan Carlos Escanciano</a>, R&amp;R at Review of Economic Studies (resubmitted), previously distributed as Machine Learning Inference on Inequality of Opportunity.
+  <li><a href="https://raw.githubusercontent.com/joelters/website/gh-pages/assets/ML_IOp.pdf">Machine Learning Inference on Inequality of Opportunity</a>: with
+<a href="https://sites.google.com/view/juancarlosescanciano/home?authuser=0">Juan Carlos Escanciano</a>, R&amp;R at Review of Economic Studies.
     <ul>
-      <li><strong>Abstract:</strong> We propose a method to debias estimators based on U-statistics with Machine Learning (ML) first-steps. Standard plug-in estimators often suffer from regularization and model-selection biases, producing invalid inferences. We show that Debiased Machine Learning (DML) estimators can be constructed within a U-statistics framework to correct these biases while preserving desirable statistical properties. The approach delivers simple, robust estimators with provable asymptotic normality and good finite-sample performance. We apply our method to three problems: inference on Inequality of Opportunity (IOp) using the Gini coefficient of ML-predicted incomes given circumstances, inference on predictive accuracy via the Area Under the Curve (AUC), and inference on linear models with ML-based sample-selection corrections. Using European survey data, we present the first debiased estimates of income IOp. In our empirical application, commonly employed ML-based plug-in estimators systematically underestimate IOp, while our debiased estimators are robust across ML methods. <a href="https://raw.githubusercontent.com/joelters/website/gh-pages/assets/cite_DMLU.txt">Cite</a>.</li>
+      <li><strong>Abstract:</strong> Equality of opportunity has emerged as an important ideal of distributive justice. Empirically, Inequality of Opportunity (IOp) is measured in two steps: first, an outcome (e.g., income) is predicted given individual circumstances; and second, an inequality index (e.g., Gini) of the predictions is computed. Machine Learning (ML) methods are tremendously useful in the first step. However, they can cause sizable biases in IOp since the bias-variance trade-off allows the bias to creep in the second step. We propose a simple debiased IOp estimator robust to such ML biases and provide the first valid inferential theory for IOp. We demonstrate improved performance in simulations and report the first unbiased measures of income IOp in Europe. Mother’s education and father’s occupation are the circumstances that explain the most. Plug-in estimators are very sensitive to the ML algorithm, while debiased IOp estimators are robust. These results are extended to a general U-statistics setting. <a href="https://raw.githubusercontent.com/joelters/website/gh-pages/assets/cite_ML_IOp.txt">Cite</a>.</li>
     </ul>
   </li>
   <li><a href="https://raw.githubusercontent.com/joelters/website/gh-pages/assets/IOp_educ.pdf">Educational Inequality of Opportunity and Mobility in Europe</a>
