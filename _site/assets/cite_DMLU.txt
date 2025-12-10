@@ -1,0 +1,9 @@
+@misc{escanciano2025debiasedmachinelearningustatistics,
+      title={Debiased Machine Learning U-statistics}, 
+      author={Juan Carlos Escanciano and Joël Robert Terschuur},
+      year={2025},
+      eprint={2206.05235},
+      archivePrefix={arXiv},
+      primaryClass={econ.EM},
+      url={https://arxiv.org/abs/2206.05235}, 
+}
