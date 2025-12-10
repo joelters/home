@@ -7,7 +7,7 @@ sitemap: true
 ---
 <img style="float: right;" src="main250.jpg">
 
-I am a Postdoctoral Scholar at the Technical University Munich and part of the [Munich Econometrics Group](https://munichmetrics.de/).
+I am a Postdoctoral Scholar at the Technical University Munich and affiliated researcher at the [Statistics and Econometrics group](https://www.stat.lmu.de/stat-econ/en/) in the Statistics Department, Ludwig-Maximilians-Universität (LMU) Munich. 
 
 My research interests are:
 
